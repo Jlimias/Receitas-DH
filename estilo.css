@@ -1,0 +1,58 @@
+body {
+	background-image: url(./fundo2.jpeg) ;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+ol, ul {
+
+font-size: 20px;
+
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    color: gray;
+    font-style: italic;
+}
+
+.imagem {
+    border-width: 400% ; 
+    border-radius: 50px;
+    border-color: violet
+}
+
+.imagem, h1, h2 {
+    text-align: center;
+    border: violet;
+    border-radius: 50px;
+    padding: 8px;
+}
+ 
+.iframe {
+    text-align: center;
+}
+
+
+.redes-sociais-img {
+    text-align: center;
+
+}
+#rodape {
+	text-align: right;
+    
+}

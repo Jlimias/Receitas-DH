@@ -1,2 +1,2 @@
-# Receitas DH
- Projeto de receitas HTML/CSS
+# Receitas
+ Site de receitas (HTML/CSS)
